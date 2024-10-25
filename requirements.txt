@@ -1,0 +1,14 @@
+langchain
+gpt4all
+chromadb
+llama-cpp-python
+urllib3
+PyMuPDF
+python-dotenv
+unstructured
+extract-msg
+tabulate
+pandoc
+pypandoc
+tqdm
+sentence_transformers
