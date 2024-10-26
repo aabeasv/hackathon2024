@@ -61,7 +61,7 @@ python personalGPT.py
 
 #### Now, you can enter queries and interact with your documents. For example:
 ```
-Enter a query: Explain the code in the *.java file?
+Enter a query: What is wrong in the application_log file?
 ```
 
 ### Trying a Different Model
